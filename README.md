@@ -1,4 +1,4 @@
-# CodeAlpha Cyber Security Internship
+# Cybersecurity Internship
 
 This repository contains two completed tasks for the **CodeAlpha Cyber Security Internship**:  
 1. **Basic Network Sniffer** – A Python tool to capture and analyze network traffic.  
