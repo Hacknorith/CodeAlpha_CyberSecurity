@@ -25,7 +25,7 @@ A Python script using **Scapy** to capture and display real-time network packet 
 ```bash
 python network_sniffer.py
 ```
-# 🛡 Task 2: Phishing Awareness Module
+## 🛡 Task 2: Phishing Awareness Module
 
 **Overview:**
 An educational module on **phishing attacks**—what they are, how to spot them, and how to avoid them.
