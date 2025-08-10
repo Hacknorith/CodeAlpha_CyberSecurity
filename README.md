@@ -27,23 +27,20 @@ python network_sniffer.py
 ```
 # 🛡 Task 2: Phishing Awareness Module
 
-## Overview
+**Overview:**
 An educational module on **phishing attacks**—what they are, how to spot them, and how to avoid them.
 
-## Objectives
+**Objectives:**
 - Identify phishing attempts.
 - Promote safe browsing & email habits.
 - Provide prevention tips.
 
-## Contents
+**Contents:**
 - What is phishing?
 - Types: Email, Spear, Vishing, Smishing.
 - Signs of phishing (fake URLs, urgency, grammar errors).
 - Best practices (verify senders, avoid suspicious links, use MFA).
 - Real examples & quick quiz.
 
-## Format
-Presentation with visuals, examples, and short quizzes.
-
-## Disclaimer
+**Disclaimer:**
 For **educational use only**.
