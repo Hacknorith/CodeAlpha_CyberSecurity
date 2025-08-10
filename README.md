@@ -23,7 +23,8 @@ A Python script leveraging the powerful [Scapy](https://scapy.net/) library to c
 
 ### ⚙️ Requirements  
 - 🐍 [Python 3.x](https://www.python.org/downloads/)  
-- 📦 [Scapy](https://scapy.net/) library  
+- 📦 [Scapy](https://scapy.net/) library
+  
   ```bash
   pip install scapy
   ```
@@ -32,10 +33,10 @@ A Python script leveraging the powerful [Scapy](https://scapy.net/) library to c
 - **Windows:** Install [Npcap](https://nmap.org/npcap/)  
 - **Linux/Mac:** `libpcap` is usually pre-installed or available via your package manager
 
----
 
 ### 🚀 Usage
 Run the sniffer script with administrator/root privileges:
 ```bash
 python network_sniffer.py
 ```
+---
